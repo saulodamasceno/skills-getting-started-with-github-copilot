@@ -2,6 +2,15 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+<!--
+This section is a greeting in the README file.
+
+To create and publish a branch in Git, use the following commands:
+1. Create and switch to a new branch:
+    git checkout -b <branch-name>
+2. Push the new branch to the remote repository:
+    git push -u origin <branch-name>
+-->
 Hey saulodamasceno!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
